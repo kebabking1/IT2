@@ -1,0 +1,1 @@
+# Oppgaver - Algoritmer, psuedokode og flytdiagram
